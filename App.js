@@ -22,7 +22,7 @@ import { LocationContextProvider } from "./src/services/location/location.contex
 const Tab = createBottomTabNavigator();
 
 const TAB_ICON ={
-  Restaurants: 'md-restaurant',
+  Restaurants: 'md-restaurant', 
   Map: 'md-map',
   Settings: 'md-settings',
 }
